@@ -2,7 +2,7 @@
 
 An interactive, modern, and responsive **Resume & Skill Portfolio Web Application** built for **Rakesh Kumar** (Full Stack Developer, 9+ Years Exp).
 
-🌐 **Live Demo**: [https://rakesh-kumar-portfolio.vercel.app](https://github.com/rakeshkumar1994/rakesh-kumar-portfolio) *(Or your Vercel deployment link)*  
+🌐 **Live Demo**: [https://rakesh-kumar-portfolio-two.vercel.app/](https://rakesh-kumar-portfolio-two.vercel.app/)  
 📁 **GitHub Repository**: [https://github.com/rakeshkumar1994/rakesh-kumar-portfolio](https://github.com/rakeshkumar1994/rakesh-kumar-portfolio)
 
 ---
